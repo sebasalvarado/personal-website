@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Sebastian Alvarado Personal Website
 
 This repository hosts my personal website, where I post all my projects, blog posts and any other work regarding software development and data science.
